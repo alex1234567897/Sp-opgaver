@@ -10,3 +10,7 @@ int LSx = 470;
 int LSSy = 45;
 int LSSx = 25;
 int LSSu = 35;
+
+int IGX = 3;
+int IGY = 35;
+int TXT = 70;
